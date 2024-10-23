@@ -1,5 +1,7 @@
 ![santander-coders-2024](img/santander-coders-2024.jpeg)
 
+<img alt="Mensagens HTTP" src="img/santander-coders-2024.jpeg" width="50%" height="50%" />
+
 # Santander Coders 2024 - Front-end em React
 
 Trilha Digital Santander Coders 2024 - Front-end em React.
