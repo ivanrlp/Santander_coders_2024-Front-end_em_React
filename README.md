@@ -5,16 +5,23 @@
 Trilha Digital Santander Coders 2024 - Front-end em React.
 
 
-## Módulos do curso
+## Módulos do curso:
+#### 1.   HTML e CSS <br>
+[Instalações](1%20-%20HTML%20e%20CSS/1-1-INSTALACOES.md)<br>
+[Arquitetura Cliente-Servidor para WEB ](1%20-%20HTML%20e%20CSS/1-2-ARQUITETURA-CLIENTE-SERVIDOR-PARA-WEB.md)<br>
+[HTML básico](1%20-%20HTML%20e%20CSS/1-3-HTML-BASICO.md)<br>
+[HTML Layout ](1%20-%20HTML%20e%20CSS/1-4-HTML-Layout-CSS.md)<br>
+[Projeto Página estática ](1%20-%20HTML%20e%20CSS/1-5-PROJETO-PAGINA-ESTATICA.md)<br>
 
-[1. HTML e CSS](1%20-%20HTML%20e%20CSS/html-e-css.md)<br>
-[2.	JavaScript]()<br>
-[3.	TypeScript, POO e Browser APIs]()<br>
-[4.	React I: Introdução e Componentes em Classe]()<br>
-[5.	React II: Componentes Funcionais e Hooks]()<br>
-[6.	Styled Components]()<br>
-[7.	Redux]()<br>
-[8.	Testes e Deployment]()<br>
+#### 2.	JavaScript <br>
+#### 3.	TypeScript, POO e Browser APIs <br>
+#### 4.	React I: Introdução e Componentes em Classe <br>
+#### 5.	React II: Componentes Funcionais e Hooks <br>
+#### 6.	Styled Components <br>
+#### 7.	Redux <br>
+#### 8.	Testes e Deployment <br>
+
+<br>
 
 ## Sobre o Curso
 
